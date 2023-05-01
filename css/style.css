@@ -216,8 +216,7 @@ button {
 .tour-slider{
   position: relative;
 }
-.tour-container {
-  position: relative;
+.tour-wrap {
   overflow: hidden;
 }
 .tour-btn {
@@ -240,9 +239,7 @@ button {
 .tour-list {
   padding: 24px 0;
   transition: all 0.2s linear;
-  /* overflow: hidden; */
   white-space: nowrap;
-  /* padding: 0 5px; */
 }
 
 .tour-item {
